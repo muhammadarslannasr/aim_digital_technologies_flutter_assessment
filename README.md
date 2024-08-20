@@ -30,4 +30,6 @@ login and home screen shows.
 
 Home Screen contain a logout button if user tap on it then logout from app and move to login screen.
 
+#### A brief explanation of your approach, including any challenges faced and how they were resolved.
 
+Used Model View-View Model Architecture, state management using cubit, and followed singleton design pattern for cubit.
