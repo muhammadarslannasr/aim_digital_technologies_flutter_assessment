@@ -6,10 +6,28 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-Project built with flutter sdk version 3.22.2
+Prerequisites:
+Flutter SDK installed on your machine
+Android Studio or Visual Studio Code (or any other code editor) installed
+Emulator or physical device connected
 
-followed a Model View View-Model Architecture with Singleton Design Pattern
-for state flutter_bloc (Cubit) used.
-Firebase as a backend and integrated Firebase_Auth to login and register based on validation
+Alternative steps using Android Studio:
+Open the project: Open the project folder in Android Studio.
+Select device: Select the emulator or physical device you want to run the app on.
+Run the app: Click on the "Run" button or press Shift+F10 to build and run the app on the selected
+device.
+Alternative steps using Visual Studio Code:
+Open the project: Open the project folder in Visual Studio Code.
+Select device: Select the emulator or physical device you want to run the app on.
+Run the app: Press F5 or click on the "Run" button to build and run the app on the selected device.
+Note: Make sure you have the Flutter extension installed in your code editor.
+
+Project built with flutter sdk version 3.22.2.
+
+Login functionality can be checked as per given instruction within the task, if already user in
+firebase then can login and if not already register then will register and automatically
+login and home screen shows.
+
+Home Screen contain a logout button if user tap on it then logout from app and move to login screen.
 
 
