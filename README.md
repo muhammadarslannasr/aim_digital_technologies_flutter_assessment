@@ -6,11 +6,10 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Project built with flutter sdk version 3.22.2
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+followed a Model View View-Model Architecture with Singleton Design Pattern
+for state flutter_bloc (Cubit) used.
+Firebase as a backend and integrated Firebase_Auth to login and register based on validation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
